@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-14T00:11:36.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="vwjijM8UL5hhJAZskbN2" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-14T00:14:20.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="G7E9F_HHWwO0gSwV6XLT" version="14.9.6" type="github">
   <diagram id="OXFVzZOPteNue4mtLP3I" name="Page-1">
     <mxGraphModel dx="1209" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,6 +6,18 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ln7NxIU3WhuoyTiOUDpY-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.guru99.com/images/PermissionsConcept.png;" vertex="1" parent="1">
           <mxGeometry x="50" y="20" width="704.32" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="ln7NxIU3WhuoyTiOUDpY-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.guru99.com/images/its_a_file.png;" vertex="1" parent="1">
+          <mxGeometry x="60" y="530" width="220" height="217.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ln7NxIU3WhuoyTiOUDpY-3" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-family: &amp;quot;source sans pro&amp;quot;, arial, sans-serif; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Here, the first &#39;&lt;/span&gt;&lt;strong style=&quot;box-sizing: inherit; font-weight: bold; color: rgb(34, 34, 34); font-family: &amp;quot;source sans pro&amp;quot;, arial, sans-serif; font-size: 18px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;-&lt;/strong&gt;&lt;span style=&quot;color: rgb(34, 34, 34); font-family: &amp;quot;source sans pro&amp;quot;, arial, sans-serif; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;&#39; implies that we have selected a file&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ln7NxIU3WhuoyTiOUDpY-4" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-family: &amp;quot;source sans pro&amp;quot;, arial, sans-serif; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Else, if it were a directory,&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong style=&quot;box-sizing: inherit; font-weight: bold; color: rgb(34, 34, 34); font-family: &amp;quot;source sans pro&amp;quot;, arial, sans-serif; font-size: 18px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;d&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(34, 34, 34); font-family: &amp;quot;source sans pro&amp;quot;, arial, sans-serif; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;would have been shown&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="760" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ln7NxIU3WhuoyTiOUDpY-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.guru99.com/images/Directory.png;" vertex="1" parent="1">
+          <mxGeometry x="30" y="830" width="470" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
